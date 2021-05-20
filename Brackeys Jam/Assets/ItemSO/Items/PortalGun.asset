@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c082040984b6a0f4f833287b91017b35, type: 3}
+  m_Name: PortalGun
+  m_EditorClassIdentifier: 
+  name: PortalGun
+  artwork: {fileID: 0}
+  part1: {fileID: 11400000, guid: 9dd3b02963077284b8da98e117a20551, type: 2}
+  part2: {fileID: 11400000, guid: 1e71954a3eac87a4d8c35bf1e9bb4363, type: 2}
+  crafting: []

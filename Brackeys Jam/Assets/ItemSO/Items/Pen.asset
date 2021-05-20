@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c082040984b6a0f4f833287b91017b35, type: 3}
+  m_Name: Pen
+  m_EditorClassIdentifier: 
+  name: Pen
+  artwork: {fileID: 21300000, guid: 2c4942c29f8c1504f964c0998896b0a0, type: 3}
+  part1: {fileID: 0}
+  part2: {fileID: 0}
+  crafting:
+  - craftedItem: {fileID: 11400000, guid: 70f5c2590f66e6443bc4857d443964fb, type: 2}
+    partnerItem: {fileID: 11400000, guid: 6e0332824167f4948bc244bc9befa91a, type: 2}
